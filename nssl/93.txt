@@ -1,0 +1,12 @@
+subject
+enron
+actuals
+31
+2000
+teco
+tap
+80
+000
+hpl
+gas
+daily

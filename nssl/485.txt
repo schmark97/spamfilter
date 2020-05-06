@@ -1,0 +1,8 @@
+subject
+day
+26
+txu
+lonestar
+called
+20000
+carthage

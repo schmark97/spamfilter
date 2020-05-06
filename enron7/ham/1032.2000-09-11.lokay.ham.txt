@@ -1,0 +1,16 @@
+subject
+customer
+list
+please
+review
+again
+forward
+back
+correct
+names
+addresses
+phone
+numbers
+thanks
+advance
+adr

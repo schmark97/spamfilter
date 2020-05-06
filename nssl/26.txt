@@ -1,0 +1,14 @@
+subject
+enron
+hpl
+actuals
+november
+30
+2000
+teco
+tap
+115
+833
+hpl
+gas
+daily

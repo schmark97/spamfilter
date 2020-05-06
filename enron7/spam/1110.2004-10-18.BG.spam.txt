@@ -1,0 +1,13 @@
+subject
+re
+13
+dr
+dree
+ricky
+martin
+1963
+lara
+kroftellis
+island
+select
+location

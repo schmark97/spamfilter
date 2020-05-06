@@ -1,0 +1,12 @@
+subject
+enron
+hpl
+actuals
+january
+10
+2001
+teco
+tap
+47
+500
+enron

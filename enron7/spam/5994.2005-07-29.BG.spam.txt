@@ -1,0 +1,12 @@
+subject
+need
+vics
+brand
+name
+meds
+vics
+vals
+xanies
+others
+check
+out
